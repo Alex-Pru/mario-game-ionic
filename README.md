@@ -13,7 +13,7 @@ npm i
 ionic serve
 ```
 Após executar estes passos, o jogo já estará aberto, porém, não da forma que é esperado, pois queremos ver como ele seria executado em um smartphone, prosseguindo: <br>
-Clique em inspecionar. <br>
+Aperte o botão direito do mouse e clique em inspecionar. <br>
 ![image](https://github.com/Alex-Pru/mario-game-ionic/assets/142506709/82c3efc0-3441-41b1-927b-27e61722b562) <br>
 Agora, clique no ícone de smartphone, que deve estar no canto superior direito da tela do game.
 ![image](https://github.com/Alex-Pru/mario-game-ionic/assets/142506709/2d92dc28-842b-4ec5-9172-330474d6007b)
