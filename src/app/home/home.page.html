@@ -1,0 +1,11 @@
+
+<ion-content [fullscreen]="true">
+
+
+  <ion-card class="game-screen" (click)="jump()">
+    <img src="assets/clouds.png" alt="nuvens" [ngClass]="'cloud'" #cloud>
+    <img src="assets/mario.gif" alt="mario" [ngClass]="{'mario': true, 'jump': jumping == true, 'game-over': gameOver == true}" #mario>
+    <img src="assets/pipe.png" class="pipe" alt="pipe" #pipe>
+  </ion-card>
+
+</ion-content>
